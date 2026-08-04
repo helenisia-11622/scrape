@@ -6,7 +6,7 @@ pkg install git.
 
 pkg install nodejs-lts.
 
-npm install -g axios cheerio.
+npm install axios cheerio.
 
 git clone "https://github.com/helenisia-11622/scrape.git"
 
